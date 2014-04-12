@@ -5,11 +5,14 @@
 app/bootstrap*
 
 # Symfony directories
-vendor/*
-*/logs/*
-*/cache/*
-web/uploads/*
-web/bundles/*
+/app/cache/*
+/app/logs/*
+!app/cache/.gitkeep
+!app/logs/.gitkeep
+/build/
+/vendor/
+/bin/
+web/bundles/
 
 # Configuration files
 app/config/parameters.ini
