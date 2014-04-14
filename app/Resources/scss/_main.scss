@@ -1,0 +1,19 @@
+html {
+  overflow: auto;
+}
+body {
+  height: 100%;
+}
+
+img#loading {
+  position: fixed;
+  bottom: 0px;
+  right: 0px;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}

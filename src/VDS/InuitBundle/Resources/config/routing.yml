@@ -1,3 +1,0 @@
-vds_inuit_homepage:
-    pattern:  /hello/{name}
-    defaults: { _controller: VDSInuitBundle:Default:index }

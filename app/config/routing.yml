@@ -1,4 +1,0 @@
-vds_inuit:
-    resource: "@VDSInuitBundle/Resources/config/routing.yml"
-    prefix:   /
-
