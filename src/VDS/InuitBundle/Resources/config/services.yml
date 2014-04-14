@@ -1,0 +1,7 @@
+parameters:
+#    vds_inuit.example.class: VDS\InuitBundle\Example
+
+services:
+#    vds_inuit.example:
+#        class: %vds_inuit.example.class%
+#        arguments: [@service_id, "plain_value", %parameter%]
