@@ -1,0 +1,7 @@
+parameters:
+#    vds_user.example.class: VDS\UserBundle\Example
+
+services:
+#    vds_user.example:
+#        class: %vds_user.example.class%
+#        arguments: [@service_id, "plain_value", %parameter%]
